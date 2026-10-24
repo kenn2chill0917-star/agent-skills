@@ -127,3 +127,19 @@ Defaults are `main` and `codex-plugins`. The script reads only committed content
 ## License
 
 [MIT](LICENSE)
+# Skill: <Skill Name>
+
+## Purpose
+Describe the primary objective and capabilities this skill provides to the agent.
+
+## Trigger Conditions
+Specify when the AI agent should invoke or route tasks to this skill.
+
+## Guidelines & Workflows
+1. **Input Validation**: Steps to check network ID, contract address, or query parameters.
+2. **Execution**: Which API endpoints or tools to call.
+3. **Output Formatting**: How the agent should present the resulting data to the user.
+
+## Examples
+- **User Prompt**: "Example query..."
+- **Expected Agent Flow**: "Calls endpoint X, processes payload, outputs table Y..."
